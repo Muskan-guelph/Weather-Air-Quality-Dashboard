@@ -49,7 +49,7 @@ FeelsLikeTemp =
 ![Dashboard Overview](https://github.com/Muskan-guelph/Weather-Air-Quality-Dashboard/blob/main/Assets/Report/Dashboard.png?raw=true)
 
 ## Download
-[Download the Power BI report](Weather_Dashboard.pbix)
+[Download the Power BI report](https://github.com/Muskan-guelph/Weather-Air-Quality-Dashboard/blob/main/Weather%20Dashboard.pbix)
 ## Contact
 For any questions or collaboration, please contact 
 [Muskan Manwani](mailto:mmanwani@uoguelph.ca).
